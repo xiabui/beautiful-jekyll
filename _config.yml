@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: XIA BUI VAN
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: This is a website for testing!
 
 # --- Navigation bar options --- #
 
@@ -72,10 +72,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  email: "buivanxia10@gmail.com"
+  facebook: xia.buivan
+  github: xiabui
+  twitter: xiab
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -83,7 +83,8 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  youtube: user/deanat78
+#  y
+#outube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
